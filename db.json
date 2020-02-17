@@ -7,5 +7,13 @@
     "naturalness": "São Paulo - SP",
     "motherName": "Maria da Silva",
     "fatherName": "João Sauro"
+  },
+  "zipData":{
+    "zipCode": "09890050",
+    "address": "Rua das Palmeiras",
+    "number": "122",
+    "complement": "apto 33",
+    "city": "São Paulo",
+    "state": "São Paulo"
   }
 }
